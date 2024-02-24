@@ -9,7 +9,7 @@ let games = [
   let authors = [
     {id: '1', name: 'mario', verified: true},
     {id: '2', name: 'yoshi', verified: false},
-    {id: '3', name: 'peach', verified: true},
+    {id: '3', name: 'peachs', verified: true},
   ]
   
   
